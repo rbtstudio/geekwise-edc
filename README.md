@@ -1,1 +1,1 @@
-# geekwise-edc
+# Geekwise EDC
